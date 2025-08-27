@@ -4,8 +4,8 @@
 
 As an NJIT graduate (M.S. in Computer Science), I focus on building reliable, scalable data systems: batch and real-time pipelines, data modeling, and analytics-enabling platforms. I enjoy turning messy telemetry and event streams into clean, queryable datasets that power products and decisions.
 
-- I am currently learning **Kafka and React**
-- Ask me about **application development, streaming ETL, and database management**
+- I am currently learning AI agents for DE workflows
+- Ask me about **Pipeline optimization, streaming ETL, and database management**
 
 <hr>
 
@@ -67,10 +67,10 @@ I like building systems that do the invisible work: validate data quality, auto-
 <h3>My GitHub Analytics</h3>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiva-prakash-perumal&show_icons=true&theme=merko" alt="stats">
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiva-prakash-perumal&show_icons=true&theme=merko" alt="stats"> -->
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-prakash-perumal&theme=merko" alt="streak">
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-prakash-perumal&theme=merko" alt="streak"> -->
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shiva-prakash-perumal&show_icons=true&layout=compact&theme=merko" alt="top-langs">
